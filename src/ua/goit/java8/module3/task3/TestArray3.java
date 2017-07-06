@@ -48,7 +48,6 @@ public class TestArray3 {
         }
 
         // шукаєм мінімальний та максимальний елементи в масиві count[]
-        // знаходимо максимальне число
         System.out.println("Максимальне число повторів у масиві: " + getMax(count));
         System.out.println("Мінімальне число повторів у масиві: " + getMin(count));
 
